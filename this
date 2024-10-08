@@ -1,0 +1,319 @@
+{
+  "songs": [
+    {
+      "bg": "#767d94a",
+      "artist": "Adolecent's Orquesta",
+      "songName": "Virgen",
+      "files": {
+        "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Adolescent's%20Orquesta%20-%20Virgen%20(Letra%20Oficial).mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
+      }
+    },
+    {
+      "bg": "#3a3225",
+      "artist": "Marina",
+      "songName": "Are You Satisfied?",
+      "files": {
+        "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Are%20You%20Satisfied.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
+      }
+    },
+    {
+      "bg": "#4b4b4b",
+      "artist": "Cafe Tacvba",
+      "songName": "Aprovéchate",
+      "files": {
+       "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Caf%C3%A9%20Tacvba%20-%20Aprov%C3%A9chate%20(Closed-Captioned).mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#5e426b",
+      "artist": "Ska-P",
+      "songName": "Cannabis",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Cannabis.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#254172",
+      "artist": "No Doubt",
+      "songName": "Don't Speak",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Don't%20Speak%20-%20No%20Doubt%20(Lyrics).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#dbb202",
+      "artist": "Elefante",
+      "songName": "Asi Es La Vida",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Elefante%20Asi%20Es%20la%20Vida%20Alta%20Calidad.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "Falling In Reverse",
+      "songName": "The Drug In Me Is You",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Falling%20In%20Reverse%20-%20The%20Drug%20In%20Me%20Is%20You.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#adadad",
+      "artist": "Nina Simone",
+      "songName": "Feeling Good",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Feeling%20Good%20-%20Nina%20Simone%20(1965).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#96011e",
+      "artist": "The Taxpayers",
+      "songName": "I Love You Like An Alcoholic",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/I%20Love%20You%20Like%20An%20Alcoholic.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#653b3c",
+      "artist": "José José",
+      "songName": "La Nave Del Olvido",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Jos%C3%A9%20Jos%C3%A9%20-%20La%20Nave%20del%20Olvido%20(Revisitado%20%5BLyric%20Video%5D).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#b49f64",
+      "artist": "Korn",
+      "songName": "Freak On A Leash",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Korn%20-%20Freak%20on%20a%20Leash.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#3a341e",
+      "artist": "Korn",
+      "songName": "Y'all Want a Single",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Korn%20-%20Y'all%20Want%20a%20Single.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#873a42",
+      "artist": "Mago De Oz,
+      "songName": "La Posada De Los Muertos",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/La%20Posada%20de%20los%20Muertos-M%C3%A4go%20de%20Oz%20(con%20lyrics%20-%20letra).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#cec739",
+      "artist": "MAGIC!",
+      "songName": "Rude",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/MAGIC!%20-%20Rude%20(Official%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#333c3b",
+      "artist": "Molotov",
+      "songName": "Rastamandita",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/MOLOTOV-rastamandita%20con%20letra.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#5d2c32",
+      "artist": "Maddie Zahm",
+      "songName": "Fat Funny Friend",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Maddie%20Zahm%20-%20Fat%20Funny%20Friend%20(Official%20Lyric%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#4a4a4a",
+      "artist": "My Chemical Romance",
+      "songName": "Mama",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Mama.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#6a8687",
+      "artist": "Artic Monkeys",
+      "songName": "Mardy Bum",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Mardy%20Bum.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#874841",
+      "artist": "Andres Cepeda",
+      "songName": "Me voy",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Me%20Voy.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#416271",
+      "artist": "Maneskin",
+      "songName": "If Noy For You",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/M%C3%A5neskin%20-%20IF%20NOT%20FOR%20YOU%20(Lyric%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#354d57",
+      "artist": "Maneskin",
+      "songName": "The Loneliest",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/M%C3%A5neskin%20-%20THE%20LONELIEST%20(Official%20Audio%20with%20lyrics).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#874841",
+      "artist": "Nirvana",
+      "songName": "Dumb",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Nirvana%20-%20Dumb.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#015593",
+      "artist": "Nirvana",
+      "songName": "Lithium",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Nirvana%20-%20Lithium%20(Official%20Music%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#184f0e",
+      "artist": "Pedro Infante",
+      "songName": "Historia De Un Amor",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Pedro%20Infante%20-%20Historia%20de%20un%20Amor%20(Audio%20Oficial).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#c64132",
+      "artist": "Queen",
+      "songName": "Killer Queen",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Queen%20-%20Killer%20Queen%20(Top%20Of%20The%20Pops%201974).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#396371",
+      "artist": "Roberto Carlos",
+      "songName": "Cama y Mesa",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Roberto%20Carlos%20-%20Cama%20y%20Mesa%20(Lyric%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#b03341",
+      "artist": "System Of A Down",
+      "songName": "Hipnotize",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/System%20Of%20A%20Down%20-%20Hypnotize%20(Official%20HD%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#5e2329",
+      "artist": "System Of A Down",
+      "songName": "Kill Rock'N Roll",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/System%20of%20a%20Down%20-%20Kill%20rock%20'N%20roll%20REAL%20LYRICS!.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#43496d",
+      "artist": "Blind Guardian",
+      "songName": "The Bard's Song",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/The%20Bard's%20Song%20-%20In%20the%20Forest%20(Remastered%202007).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#333a33",
+      "artist": "Three Days Grace",
+      "songName": "I Hate Everything About You",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Three%20Days%20Grace%20-%20I%20Hate%20Everything%20About%20You%20(Official%20Video).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#d34832",
+      "artist": "Twenty One Pilots",
+      "songName": "Ride",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Twenty%20One%20Pilots%20-%20Ride%20(Vietsub%20Lyrics).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#2d729c",
+      "artist": "El Cuarteto De Nos",
+      "songName": "Vampira",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Vampira.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#3b343b",
+      "artist": "Van Canto",
+      "songName": "Last Night Of The Kings",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/Van%20Canto%20-%20Last%20Night%20of%20the%20Kings%20(Official).mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#4c4c4c",
+      "artist": "Yungblud",
+      "songName": "Parents",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/YUNGBLUD%20-%20Parents.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#ae1742",
+      "artist": "El Cuarteto De Nos",
+      "songName": "Miguel Gritar",
+      "files": {
+      "song": "https://github.com/bedoya-b/songs.mp3/raw/refs/heads/main/el%20cuarteto%20de%20nos%20miguel%20gritar%20letra.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    }
+  ]
+}
